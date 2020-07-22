@@ -218,15 +218,3 @@
 
      1. <a href=http://c.biancheng.net/view/446.html >宏定义</a>
      1. <a href=https://blog.csdn.net/liaojiacai/article/details/47340927 >续行符</a>
-
-## shader
-
-1. 渲染流程
-
-   - 读取顶点数据→执行顶点着色器→组装图元→光栅化图元→执行片段着色器→写入帧缓冲区
-
-2. shader 的一些编程语言
-
-   - CG
-   - GLSL
-   - HLSL
